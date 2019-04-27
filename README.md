@@ -6,6 +6,9 @@ This is just a example to train Fashion-MNIST by Convolutional Neural Network fo
 * Training Fashion-MNIST by CNN on Google Colaboratory with TensorFlow 2.0 Alpha.
 * Data is augmented by ImageDataGenerator of Keras and the effectiveness of data augmentation is shown.
 
+# Attention
+Fashion-MNIST-by-CNN-with-data-augmentation.ipynb file can not be opened correctly, I'm not sure about the reason though. However, you can see the code in Google Colaboratory. So please take a look at [How-to-open-ipynb-on-Google-Colaboratory](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory) and open it in Google Colaboratory.
+
 # Dataset
 This dataset can be found [here](https://github.com/zalandoresearch/fashion-mnist).
 
