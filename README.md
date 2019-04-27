@@ -16,7 +16,8 @@ This dataset can be found [here](https://github.com/zalandoresearch/fashion-mnis
 * with Data Augmentation  
 92.2% after training in 80 epochs
 * witout Data Augmentation  
-91.8% after training in 80 epochs
+91.8% after training in 80 epochs  
+![image](https://user-images.githubusercontent.com/40084422/56845892-d7083080-6902-11e9-9c49-c319101debd2.png)
 
 # How to open it on Google Colaboratory
 Please take a look at [How-to-open-ipynb-on-Google-Colaboratory](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory).
